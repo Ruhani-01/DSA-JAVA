@@ -9,7 +9,6 @@ public  class lagest{
             else{
                 large=st[i];
             }
-
         }
         System.out.println(large);
     }
